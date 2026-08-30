@@ -1,0 +1,10 @@
+function downloadGame() {
+
+const message = document.getElementById("download-message");
+
+message.textContent =
+"🚧 La primera versión de RP-OpenWorld todavía está en desarrollo.";
+
+}
+
+console.log("RP-OpenWorld website loaded successfully.");
